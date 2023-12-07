@@ -1,2 +1,2 @@
-# Math-Class-In-C-
+# Math-Class-In-C#
 Math Class
